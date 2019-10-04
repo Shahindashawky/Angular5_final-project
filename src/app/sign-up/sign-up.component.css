@@ -1,0 +1,12 @@
+body {
+    background: #ecf0f5
+}
+h1 {
+    padding: 40px 0;
+    font-size: 40px;
+    color: #f1f5f7
+}
+.wrapper {
+    max-width: 500px;
+    margin: auto
+}

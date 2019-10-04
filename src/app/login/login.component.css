@@ -1,0 +1,22 @@
+body {
+    color: #dee3e9;
+}
+
+.box-header {
+    padding: 0px;
+    font-size: 30px;
+    color: #0c425e
+}
+.wrapper {
+    max-width: 500px;
+    margin: auto
+}
+.box{
+    margin-top: 100px;
+}
+.box-header{
+    background-color: rgb(81, 203, 240)
+}
+.box-footer{
+    background-color:rgb(231, 230, 230)
+}
